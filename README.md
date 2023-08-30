@@ -8,21 +8,21 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/AndersonFillho/fundamentos-js">
-    <img src="logo.png" alt="Logo" height="350">
+  <a href="https://github.com/AndersonFillho/cronometrojs">
+    <img src="img/logo.png" alt="Logo" height="350">
   </a>
 
-  <h3 align="center">Fundamentals of JavaScript Course</h3>
+  <h3 align="center">stopwatch JS</h3>
 
   <p align="center">
     Applying the acquired knowledge with a final project.
     <br />
-    <a href="https://github.com/AndersonFillho/fundamentos-js"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AndersonFillho/cronometrojs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AndersonFillho/fundamentos-js/issues">Report Bug</a>
+    <a href="https://github.com/AndersonFillho/cronometrojs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AndersonFillho/fundamentos-js/pulls">Request Feature</a>
+    <a href="https://github.com/AndersonFillho/cronometrojs/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -49,7 +49,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -59,12 +58,11 @@
 
 <br />
 <br />
-<a href="https://financial-control-topaz.vercel.app/">
-    <img src="jogo.png" alt="Demo app">
+    <img src="img/demo.png" alt="Demo app">
 </a>
 <br />
 <br />
-Fundamentals of JavaScript Course with Erick Wendel and Memory Game as a Final Project for a Better Understanding of the Language and Practical Implementation
+Creating a JavaScript stopwatch project to test the knowledge gained from the studies.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +94,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AndersonFillho/fundamentos-js.git
+   git clone https://github.com/AndersonFillho/cronometrojs.git
    ```
 2. Install NPM packages
    ```sh
@@ -150,6 +148,6 @@ Don't forget to give the project a star! Thanks again!
 
 Anderson Ferreira - [Linkedin](https://www.linkedin.com/in/anderson-ferreira-35349018b/) - anderson12job@gmail.com
 
-Project Link: [Fundamentos javascript - Erick Wendel](https://github.com/AndersonFillho/fundamentos-js)
+Project Link: [Creating a JavaScript stopwatch project](https://github.com/AndersonFillho/cronometrojs)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
