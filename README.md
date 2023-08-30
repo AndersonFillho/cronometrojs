@@ -107,18 +107,10 @@ To get a local copy up and running follow these simple steps.
 
 ## Roadmap
 
-- [x] Introduction to the Course
-- [x] Getting Started with JavaScript
-- [x] Data Types - Part 01
-- [x] Data Types - Part 02
-- [x] Data Types - Part 03
-- [x] Controlling Data Flow
-- [x] Modules in JavaScript
-- [x] The JavaScript Lifecycle
-- [x] Final Project: Building a Memory Game
-- [x] Next Steps
+- [x] Query selector
+- [x] Event Listener
+- [x] Functions
      
-
 
 See the [open issues](https://github.com/brunnamattos/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
